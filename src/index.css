@@ -16,11 +16,11 @@ ul {
 .stick {
     width: .01%;
     float: left;
-    boarder: 5px;
+    border: 5px;
     padding: 5px;
     margin: 5px;
     max-width: 3px;
     min-width: 3px;
-    border-radius: 1px;
+    border-radius: 6px;
     height: 100px;
 }

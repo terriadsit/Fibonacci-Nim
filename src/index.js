@@ -23,8 +23,6 @@ class Parent extends React.Component {
     this.setState({ initialNumber: num });
     this.setState({ presentNumber: num });
     this.setState({ history: [num] });
-   // alert(`history is : ${this.state.history}`);
-    //alert(`'handle change value is: ${this.state.initialNumber}'`);
   }
 
   handleRemoveSticks (event) {
