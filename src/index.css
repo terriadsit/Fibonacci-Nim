@@ -1,0 +1,26 @@
+body {
+    font: 14px "Century Gothic", Futura, sans-serif;
+    margin: 20px;
+}
+
+ol,
+ul {
+    padding-left: 30px;
+}
+
+.display-sticks {
+    width: 100%;
+    float: left;
+}
+
+.stick {
+    width: .01%;
+    float: left;
+    boarder: 5px;
+    padding: 5px;
+    margin: 5px;
+    max-width: 3px;
+    min-width: 3px;
+    border-radius: 1px;
+    height: 100px;
+}
